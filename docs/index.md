@@ -12,6 +12,12 @@
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=robertoporfiro&show_icons=true&theme=nightowl" /></p>
 
+<h3 align="center">Welcome to my profile!</h3>
+<p align="center">I'm a software developer passionate for <b>#software-architecture</b>, <b>#ci-cd</b> & <b>#opensource</b></p>
+<p align="center"><a href="https://github.com/Pampa-Devs">Pampa Devs</a> is a community created by me that has the goal to share and help developers in any way they need. You can find tutorials, project templates, videos and more in our org. Give it a try!</p>  
+<p align="center">I'm currently working on <a href="https://dietbox.me/">Dietbox</a>. Dietbox is a leading startup in the Brazilian Nutrition software market in internacional expansion proccess. It's very purpose is to transform the professional market of nutritionists through technology that prioritizes the relationship, maintaining itself as a key part for this.</p>
+<br>
+
 <p>I've used all the technologies listed below. Some more than others.</p>
 
 <p align="center">
