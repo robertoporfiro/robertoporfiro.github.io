@@ -10,8 +10,6 @@
   </a>
 </p>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=robertoporfiro&show_icons=true&theme=nightowl" /></p>
-
 <h3 align="center">Welcome to my profile!</h3>
 <p align="center">I'm a software architect passionate for <b>#software-architecture</b>, <b>#ci-cd</b> & <b>#opensource</b></p>
 <br>
@@ -56,34 +54,8 @@
   <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white" />
 </p>
 
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=robertoporfiro&show_icons=true&theme=nightowl" /></p>
 
-You can use the [editor on GitHub](https://github.com/robertoporfiro/robertoporfiro.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
