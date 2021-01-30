@@ -15,6 +15,7 @@
 <br>
 
 <p>I've used all the technologies listed below. Some more than others.</p>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white" />
@@ -53,6 +54,7 @@
   <img src="https://img.shields.io/badge/-OpenAPI%20Initiative-6BA539?logo=openapiinitiative&logoColor=white" />
   <img src="https://img.shields.io/badge/-MailChimp-FFE01B?logo=mailchimp&logoColor=white" />
 </p>
+<br>
 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=robertoporfiro&show_icons=true&theme=nightowl" /></p>
 
