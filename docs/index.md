@@ -14,7 +14,7 @@
 <p align="center">I'm a software architect passionate for <b>#software-architecture</b>, <b>#ci-cd</b> & <b>#opensource</b></p>
 <br>
 
-<p>I've used all the technologies listed below. Some more than others.</p>
+<p align="center">I've used all the technologies listed below. Some more than others.</p>
 <br>
 
 <p align="center">
