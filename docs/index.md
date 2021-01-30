@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">Welcome to my profile!</h3>
-<p align="center">I'm a software architect passionate for <b>software-architecture</b>, <b>ci-cd</b>, <b>k8s</b> & <b>opensource</b></p>
+<p align="center">I'm a Solution Architect passionate for <b>software-architecture</b>, <b>ci-cd</b>, <b>k8s</b> & <b>opensource</b></p>
 <br>
 
 <p align="center">I've used all the technologies listed below. Some more than others.</p>
