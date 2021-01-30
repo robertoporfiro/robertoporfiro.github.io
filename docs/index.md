@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Roberto Porfiro GitHub Pages
+
+
+<p align="center">
+  <a href="https://github.com/robertoporfiro">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/robertoporfiro" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/robertoporfiro">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robertoporfiro/" alt="LinkedIn" />
+  </a>
+</p>
 
 You can use the [editor on GitHub](https://github.com/robertoporfiro/robertoporfiro.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
